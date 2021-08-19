@@ -8,8 +8,7 @@
 - 📌Check it out👉 <a href="http://aswinjayaji.herokuapp.com/">Blog</a><hr>****
 - ### My Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswinjayaji&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<hr>
-### Language stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinjayaji&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **aswinjayaji/aswinjayaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
