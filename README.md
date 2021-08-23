@@ -7,7 +7,7 @@
 - 💬 Ask me about python, C/C++, Django,Rust.
 - 📌Check it out👉 <a href="http://aswinjayaji.herokuapp.com/">Blog</a><hr>****
 - ### My Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswinjayaji&show_icons=true&theme=radical)]<hr>
+(https://github-readme-stats.vercel.app/api?username=aswinjayaji&show_icons=true&theme=radical)<hr>
 
 
 <!--
