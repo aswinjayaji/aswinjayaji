@@ -1,8 +1,8 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 #### I'm Aswin Jayaji, an undergrad student🎓 pursuing Computer Science and Engineering 💻.
-- 🛠 Currently building :- A module in Rust
-- 🌱 I’m currently learning flutter.
+- 🛠 Currently building :- Making CRUD in FASTapi
+- 🌱 I’m currently learning Working in Company.
 - 🛠 Worked on neo4j Graph database in Django platform
 - 🤔 I’m looking for help with Machine Learning.
 - 💬 Ask me about python, C/C++, Django,Rust.
